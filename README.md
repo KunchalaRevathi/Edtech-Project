@@ -2,7 +2,7 @@ House Price Prediction using Linear Regression
 
 Project Details
 
-Name: Revathi  Company: CodTech IT Solutions ID: CT6WDS2587 Domain: Machine Learning Duration: November 30, 2024 - January 15, 2025 Mentor: Muzammil Shaik
+Name: Revathi KUNCHALA , Company: CodTech IT Solutions ID: CT6WDS2587 Domain: Machine Learning Duration: November 30, 2024 - January 15, 2025 Mentor: Muzammil Shaik
 
 Overview
 
